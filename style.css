@@ -1,4 +1,27 @@
 body {
+    font-family: 'Allerta Stencil';
     background-color: black;
     color: white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+button {
+  background: none;
+  font-size: 24px;
+  color: #ffc7c7;
+  border: 1px solid #ffc7c7;
+  border-radius: 4px;
+}
+
+.right {
+    display: flex;
+    gap: 48px;
+    justify-content: center;
+    flex: 1;
+
 }
