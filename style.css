@@ -18,10 +18,6 @@ button {
   border-radius: 4px;
 }
 
-button:hover {
-
-}
-
 .grow { 
     transition: all .4s ease-in-out; 
 }
