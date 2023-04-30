@@ -22,11 +22,6 @@ button:hover {
 
 }
 
-.logo:hover {
-    filter: invert(95%) sepia(77%) saturate(2895%) hue-rotate(170deg) brightness(108%) contrast(109%);
-    transition: 0.7s;
-}
-
 .grow { 
     transition: all .4s ease-in-out; 
 }
